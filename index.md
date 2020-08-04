@@ -21,15 +21,30 @@ Day Insurance Co.
 
 
 
+**PERSONAL SKILLS**
+Passion and Motivation ************---
+Knowledge Sharing      ************--
+Teamwork               *********-----
+Patience               *********-----
+Discipline             *********-----
+Learning               ***********---
+Creativity             ***********---
+Problem Solving        **************
+
+**CERTIFICATIONS**
+@ MCTS: SQL-SERVER 2014, Database Development (Design and Implementation) –Farater Az Danesh
+@ MCTS: SQL-SERVER 2014, Implementation and Maintenance (Administration) – Farater Az Danesh
+@ BUSINESS INTELLIGENCE: Farater Az Danesh
+@ Data Warehouse Design and ETL implementation using Microsoft SQL-Server integration
+services 2016
+@ OLAP, BI Modeling and Presentation Using Microsoft SQL-Server Analysis Services
+@ Advanced Level of English Course provided at Safir English Institute with the average passing
+mark of 94/100 
+@.Net Programing   Sematec & Faratar AZ Danesh
+@Qlik View    -Faratar AZ Danesh
+@Isms
+@Query Optimising
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abouhamze-fahime/Abouhamze.Fahime/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
