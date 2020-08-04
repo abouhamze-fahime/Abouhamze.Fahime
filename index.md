@@ -1,11 +1,15 @@
 
-# فهیمه ابوحمزه
-## کارشناس منابع اطلاعاتی
-### شرکت بیمه دی
+#                                                               
+##   Passionate, Self-motivated Business Intelligence developer who is eager to learn more and share knowledge.    
+###                                                             
 
--سوابق شغلی
--تعاونی شهرک غرب
--
+knowledge.شرکت بیمه دی
+
+-EXPERIENCE
+-Almas Gostaran Pooya 
+-West Town Cooperative
+-Payvast Soft Ware Group 
+-Day Insurance Co.
  
 - گروه نرم افزاری پیوست
 - شرکت بیمه دی 
