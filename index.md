@@ -27,17 +27,13 @@
  
  2.  BSC IN COMPUTER SOFTWARE ENGINEERING
 
-#  PERSONAL SKILLS
-
-
-
 # PERSONAL SKILLS
 
--Passion and Motivation ************---
+-Passion and Motivation  
 
 -Knowledge Sharing      ************--
 
--Teamwork               *********-----
+-TeamWork               *********-----
 
 -Patience               *********-----
 
@@ -49,20 +45,67 @@
 
 -Problem Solving        **************
 
-**CERTIFICATIONS**
-@ MCTS: SQL-SERVER 2014, Database Development (Design and Implementation) –Farater Az Danesh
-@ MCTS: SQL-SERVER 2014, Implementation and Maintenance (Administration) – Farater Az Danesh
-@ BUSINESS INTELLIGENCE: Farater Az Danesh
-@ Data Warehouse Design and ETL implementation using Microsoft SQL-Server integration
-services 2016
-@ OLAP, BI Modeling and Presentation Using Microsoft SQL-Server Analysis Services
-@ Advanced Level of English Course provided at Safir English Institute with the average passing
-mark of 94/100 
-@.Net Programing   Sematec & Faratar AZ Danesh
-@Qlik View    -Faratar AZ Danesh
-@Isms
-@Query Optimising
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-[Link](url) and ![Image](src)
-```
+# CERTIFICATIONS
+
+- MCTS: SQL-SERVER 2014, Database Development (Design and Implementation) –Farater Az Danesh
+
+- MCTS: SQL-SERVER 2014, Implementation and Maintenance (Administration) – Farater Az Danesh
+
+- BUSINESS INTELLIGENCE: Farater Az Danesh
+
+- Data Warehouse Design and ETL implementation using Microsoft SQL-Server integration
+   services 2016
+
+- OLAP, BI Modeling and Presentation Using Microsoft SQL-Server Analysis Services
+
+- Advanced Level of English Course provided at Safir English Institute with the average passing
+  mark of 94/100 
+
+-.Net Programing   Sematec & Faratar AZ Danesh
+
+-Qlik View    -Faratar AZ Danesh
+
+-Isms
+
+-Query Optimising
+
+# Work experience 
+roles:
+ - title: Senior Engineer
+   start: 2012
+   end: Ongoing
+   employer: Covestor
+   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
+#Education is required
+education:
+ - level: Bachelor of Science (B.Sc.)
+   date: 2003
+   subject: Artificial Intelligence and Computer Science
+   school: University of Birmingham
+#This section is optional (as is the image link below)
+coursera:
+   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   courses:
+    - title: Functional Programming Principles in Scala
+      link: https://www.coursera.org/course/progfun
+      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+      date: September 16, 2013
+#List of interesting Github repo/projects to include - optional
+github:
+ - robhinds/twitter-sentiment-analysis
+ - robhinds/spring-reactor-twitter
+ - robhinds/microservices
+#Stackoverflow flair is optional
+stackoverflow:
+   profileurl: http://stackoverflow.com/users/258813/rhinds
+   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+#Mobile apps section is optional
+apps:
+ - name: Chuck the Quiz
+   platform: Android
+   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
+   description: A basic early Android app (open sourced)
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spri
 
