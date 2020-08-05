@@ -5,20 +5,27 @@
 
 #  EXPERIENCE
 
-1.2006-2007                                                                                                                                                                                       
--Almas Gostaran Pooya  
+1.start: 2006 until 2007                                                                                                                                                                                       
+   Company Name :Almas Gostaran Pooya  
+   description: I've learned Office software.
+   roles: Official employee
+   
+2.start: 2007 until 2008
+   Company Name :West Town Cooperative
+   Description: I've learned work with stock software and learn business of marketing.
+   Roles:Official employee
 
-2.2007-2008
 
--West Town Cooperative
+3.start: 2008 until 2016
 
-3.2008-2016
-
--Payvast Soft Ware Group 
-
-4.2016-2020
-
--Day Insurance Co.
+   Company Name :Payvast Soft Ware Group 
+   Description: Support financial and hrm and stock sofware
+   Roles:Help Desk
+   
+4.start:2016 until  2020
+   Company Name : Day Insurance Co.
+   Description: Support financial and hrm and stock sofware
+   Roles:Help Desk
  
  
  #  EDUCATION
@@ -29,21 +36,21 @@
 
 # PERSONAL SKILLS
 
--Passion and Motivation  
+-Passion and Motivation  High
 
--Knowledge Sharing      ************--
+-Knowledge Sharing      High
 
--TeamWork               *********-----
+-TeamWork               High
 
--Patience               *********-----
+-Patience               Normal
 
--Discipline             *********-----
+-Discipline             Normal
 
--Learning               ***********---
+-Learning               High
 
--Creativity             ***********---
+-Creativity             High
 
--Problem Solving        **************
+-Problem Solving        High
 
 # CERTIFICATIONS
 
@@ -58,8 +65,7 @@
 
 - OLAP, BI Modeling and Presentation Using Microsoft SQL-Server Analysis Services
 
-- Advanced Level of English Course provided at Safir English Institute with the average passing
-  mark of 94/100 
+- Advanced Level of English Course provided at Safir English Institute with the average passing mark of 94/100 
 
 -.Net Programing   Sematec & Faratar AZ Danesh
 
