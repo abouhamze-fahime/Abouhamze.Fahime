@@ -82,7 +82,7 @@
 
 - Query Optimising
 
-** Related link ** 
+ ** Related link ** 
 
 https://quera.ir/
 
