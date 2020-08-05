@@ -82,5 +82,9 @@
 
 -Query Optimising
 
+**Related link ** 
+
+https://quera.ir/
+
 
 
