@@ -80,7 +80,7 @@
 
 - Isms
 
--Query Optimising
+- Query Optimising
 
 **Related link ** 
 
