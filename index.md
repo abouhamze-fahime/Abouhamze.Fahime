@@ -1,37 +1,37 @@
 
-#    Developer  ,  DatawareHouse &  Dashboard   Designer,   SSIS , SSAS , SSRS , .Net Programer  , TSQL ,                                                    
+#    Developer  ,  DatawareHouse &  Dashboard   Designer,   SSIS , SSAS , SSRS , .Net Programer  , TSQL ,  MDX                                                   
 ##   Passionate, Self-motivated Business Intelligence developer who is eager to learn more and share knowledge.    
 ###   Address  Banihashem squer , lale alley NO.5 ,Scond Floor, Cellphone:09370069702                                                         
 
-**_EXPERIENCE_**
+#  EXPERIENCE
 
 1.2006-2007                                                                                                                                                                                       
-Almas Gostaran Pooya  
+-Almas Gostaran Pooya  
 
 2.2007-2008
 
-West Town Cooperative
+-West Town Cooperative
 
 3.2008-2016
 
-Payvast Soft Ware Group 
+-Payvast Soft Ware Group 
 
 4.2016-2020
 
-Day Insurance Co.
+-Day Insurance Co.
  
  
- **_EDUCATION_**
+ #  EDUCATION
  
  1.  Electronic Technician : ISLAMIC AZAD UNIVRSITY OF NORTH BRANCH-Eslamshar  
  
  2.  BSC IN COMPUTER SOFTWARE ENGINEERING
 
-**PERSONAL SKILLS**
+#  PERSONAL SKILLS
 
 
 
-**PERSONAL SKILLS**
+# PERSONAL SKILLS
 
 -Passion and Motivation ************---
 
