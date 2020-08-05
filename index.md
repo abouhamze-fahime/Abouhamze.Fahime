@@ -3,7 +3,7 @@
 ##   Passionate, Self-motivated Business Intelligence developer who is eager to learn more and share knowledge.    
 ###   Address  Banihashem squer , lale alley NO.5 ,Scond Floor, Cellphone:09370069702                                                         
 
-#  EXPERIENCE
+##  EXPERIENCE
 
 1.start: 2006 until 2007                                                                                                                                                                                       
    Company Name :Almas Gostaran Pooya
@@ -35,13 +35,13 @@
    Roles:Information resources expert
  
  
- #  EDUCATION
+ ##  EDUCATION
  
  1.  Electronic Technician : ISLAMIC AZAD UNIVRSITY OF NORTH BRANCH-Eslamshar  
  
  2.  BSC IN COMPUTER SOFTWARE ENGINEERING
 
-# PERSONAL SKILLS
+## PERSONAL SKILLS
 
 -Passion and Motivation  High
 
@@ -59,7 +59,7 @@
 
 -Problem Solving        High
 
-# CERTIFICATIONS
+## CERTIFICATIONS
 
 - MCTS: SQL-SERVER 2014, Database Development (Design and Implementation) –Farater Az Danesh
 
