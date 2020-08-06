@@ -43,21 +43,21 @@
 
 ## PERSONAL SKILLS
 
--Passion and Motivation  High
+- Passion and Motivation  High
 
--Knowledge Sharing      High
+- Knowledge Sharing      High
 
--TeamWork               High
+- TeamWork               High
 
--Patience               Normal
+- Patience               Normal
 
--Discipline             Normal
+- Discipline             Normal
 
--Learning               High
+- Learning               High
 
--Creativity             High
+- Creativity             High
 
--Problem Solving        High
+- Problem Solving        High
 
 ## CERTIFICATIONS
 
@@ -82,8 +82,8 @@
 
 - Query Optimising
 
- ** Related link ** 
-
+ ***_Related link_*** 
+[quera.ir]
 https://quera.ir/
 
 
