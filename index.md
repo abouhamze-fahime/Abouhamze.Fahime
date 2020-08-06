@@ -35,7 +35,7 @@
    Roles:Information resources expert
  
  
- ##  EDUCATION
+ ###   EDUCATION
  
  - Electronic Technician : ISLAMIC AZAD UNIVRSITY OF NORTH BRANCH-Eslamshar  
  
