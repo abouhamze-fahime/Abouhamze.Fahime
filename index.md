@@ -83,7 +83,8 @@
 - Query Optimising
 
  ***_Related link_*** 
-[quera.ir]
+
+
 https://quera.ir/
 
 
