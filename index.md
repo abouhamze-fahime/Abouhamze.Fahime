@@ -5,14 +5,14 @@
 
 ##  EXPERIENCE
 
-1.start: 2006 until 2007                                                                                                                                                                                       
+- start: 2006 until 2007                                                                                                                                                                                       
    Company Name :Almas Gostaran Pooya
    
    Description: I've learned Office software.
    
    Roles: Official employee
    
-2.start: 2007 until 2008
+- start: 2007 until 2008
    Company Name :West Town Cooperative
    
    Description: I've learned work with stock software and learn business of marketing.
@@ -20,7 +20,7 @@
    Roles:Official employee
 
 
-3.start: 2008 until 2016
+- start: 2008 until 2016
 
    Company Name :Payvast Soft Ware Group 
    
@@ -28,7 +28,7 @@
    
    Roles:Help Desk
    
-4.start:2016 until  2020
+- start:2016 until  2020
    Company Name : Day Insurance Co.
    
    Description: DWH designer , Dashboard designer  , design cube and dimenssion , .net programer
@@ -37,9 +37,9 @@
  
  ##  EDUCATION
  
- 1.  Electronic Technician : ISLAMIC AZAD UNIVRSITY OF NORTH BRANCH-Eslamshar  
+ - Electronic Technician : ISLAMIC AZAD UNIVRSITY OF NORTH BRANCH-Eslamshar  
  
- 2.  BSC IN COMPUTER SOFTWARE ENGINEERING
+ -  BSC IN COMPUTER SOFTWARE ENGINEERING
 
 ## PERSONAL SKILLS
 
