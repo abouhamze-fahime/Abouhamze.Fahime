@@ -1,3 +1,6 @@
+ src="images/Baran.jpg"
+
+
 
 #    Developer  ,  DatawareHouse &  Dashboard   Designer,   SSIS , SSAS , SSRS , .Net Programer  , TSQL ,  MDX                                                   
 ##   Passionate, Self-motivated Business Intelligence developer who is eager to learn more and share knowledge.    
