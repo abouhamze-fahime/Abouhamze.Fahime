@@ -85,7 +85,7 @@
  ***Related link*** 
 
 
-https://quera.ir/qcv/
+https://quera.ir/profile/abouhamze.fahime
 
 
 
