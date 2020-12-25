@@ -14,7 +14,8 @@
 - [PatchWork](https://abouhamze-fahime.github.io/Fahime_PatchWork_JavaScript/PatchWork.jpeg)
 - [JavaScriptCertificate](https://abouhamze-fahime.github.io/Fahime_PatchWork_JavaScript/Certificate.PNG)
 
-- [Write in Latex](https://github.com/abouhamze-fahime/WriteInLatex) 
+- [Write in Latex](https://github.com/abouhamze-fahime/WriteInLatex)
+- [Pressman Presentation](https://drive.google.com/file/d/14-uF9D34Rr9LGW3VOhaA6vR8iloNGWxg/view?usp=sharing) 
 
 
 ## سیاهه ارزشیابی درس
